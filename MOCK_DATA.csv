@@ -1,0 +1,201 @@
+id,group,plant,animals,gender,material
+1,Red,Rosaceae,"Snake, western patch-nosed",Male,Glass
+2,Orange,Malvaceae,Savanna baboon,Female,Plexiglass
+3,Red,Brassicaceae,Western grey kangaroo,Female,Brass
+4,Orange,Scrophulariaceae,"Bulbul, black-eyed",Male,Granite
+5,,Ranunculaceae,"Bulbul, black-eyed",Female,Wood
+6,Yellow,Gentianaceae,"Eagle, tawny",Male,Glass
+7,Blue,Fabaceae,Malabar squirrel,Female,Rubber
+8,Orange,Physciaceae,Thomson's gazelle,Male,Glass
+9,Orange,Liliaceae,,Female,Wood
+10,Red,Onagraceae,"Tamandua, southern",Female,Stone
+11,Blue,Rosaceae,"Kookaburra, laughing",Male,Stone
+12,Blue,Hydrophyllaceae,Suricate,Female,Brass
+13,Yellow,Pinaceae,Red-headed woodpecker,Non-binary,Aluminum
+14,Yellow,Asteraceae,"Cat, native",Male,Wood
+15,Yellow,Geraniaceae,Eastern white pelican,Male,Rubber
+16,Blue,Brassicaceae,,Male,Vinyl
+17,Blue,Campanulaceae,Southern brown bandicoot,Male,Glass
+18,Blue,Poaceae,"Legaan, Monitor (unidentified)",Male,Glass
+19,Red,Scrophulariaceae,Bennett's wallaby,Female,Wood
+20,Red,Fabaceae,Black vulture,Male,Rubber
+21,Red,Rosaceae,Black-footed ferret,Polygender,Plastic
+22,Red,Coccocarpiaceae,"Porcupine, prehensile-tailed",Female,Vinyl
+23,Yellow,,Javanese cormorant,Male,Plastic
+24,Blue,Brachytheciaceae,"Fox, blue",Male,Stone
+25,Red,Poaceae,"Goose, snow",Genderfluid,Plexiglass
+26,Yellow,Ranunculaceae,Galapagos hawk,Female,Wood
+27,Blue,Fabaceae,Pied avocet,Male,Wood
+28,Orange,Urticaceae,,Female,Vinyl
+29,Blue,Asteraceae,Comb duck,Male,Aluminum
+30,Blue,Scrophulariaceae,Silver-backed fox,Female,Rubber
+31,Yellow,Poaceae,Common palm civet,Male,Rubber
+32,Orange,Scrophulariaceae,Australian brush turkey,Female,Steel
+33,Blue,Lamiaceae,Two-toed sloth,Female,Plexiglass
+34,Orange,Caryophyllaceae,"Shelduck, european",Male,Glass
+35,Yellow,Betulaceae,Indian jackal,Female,Plexiglass
+36,Red,Liliaceae,"Kingfisher, pied",Male,Glass
+37,Blue,Brassicaceae,Killer whale,Female,Granite
+38,Red,Caprifoliaceae,Ferruginous hawk,Male,Granite
+39,Blue,Salicaceae,Ocelot,Female,Plexiglass
+40,Orange,Fabaceae,Galapagos dove,Female,Aluminum
+41,Blue,Boraginaceae,Glossy starling (unidentified),Female,Stone
+42,Orange,Cyperaceae,Galapagos hawk,Female,Wood
+43,Red,Agavaceae,"Bird, secretary",Female,Steel
+44,,Poaceae,African bush squirrel,Male,Steel
+45,Yellow,,,Female,Vinyl
+46,Red,Poaceae,"Hawk, ferruginous",Female,Steel
+47,Blue,Asteraceae,"Eagle, white-bellied sea",Male,Plastic
+48,Red,Fabaceae,"Cormorant, pied",Male,Rubber
+49,Red,Malvaceae,,Female,Glass
+50,Blue,Amaranthaceae,North American red fox,Male,Plastic
+51,Red,Rosaceae,Brush-tailed rat kangaroo,Female,Granite
+52,Orange,Aspleniaceae,Scaly-breasted lorikeet,Male,Wood
+53,Orange,Cyperaceae,"Otter, small-clawed",Male,Steel
+54,Red,,"Macaw, red and blue",Female,Glass
+55,Blue,Ephedraceae,"Rhea, greater",Male,Plastic
+56,Yellow,Polygonaceae,"Curlew, black",Female,Plexiglass
+57,Red,Cactaceae,"Lion, california sea",Male,Plastic
+58,Red,Asteraceae,Turtle (unidentified),Male,Brass
+59,,Caryophyllaceae,"Dove, emerald-spotted wood",Male,Granite
+60,Blue,Asteraceae,Crested porcupine,Male,Glass
+61,Blue,Juncaceae,"Wolf, timber",Female,Plexiglass
+62,Orange,Poaceae,Huron,Female,Glass
+63,Blue,Asteraceae,"Cockatoo, red-tailed",Female,Plastic
+64,Blue,Commelinaceae,Whip-tailed wallaby,Female,Rubber
+65,Yellow,Fabaceae,Brown lemur,Bigender,Wood
+66,Blue,Asteraceae,Blue racer,Polygender,Steel
+67,Yellow,Chenopodiaceae,Sandhill crane,Male,Rubber
+68,Orange,Fabaceae,,Female,Stone
+69,Blue,Rosaceae,"Ringtail, common",Male,Stone
+70,Orange,Boraginaceae,Rose-ringed parakeet,Male,Wood
+71,Red,Apiaceae,Hudsonian godwit,Male,Plastic
+72,Blue,Acarosporaceae,"Turkey, australian brush",Female,Rubber
+73,Yellow,Boraginaceae,Galapagos mockingbird,Female,Granite
+74,Blue,,Tawny frogmouth,Female,Rubber
+75,Blue,Asteraceae,Potoroo,Male,Granite
+76,Yellow,Asteraceae,"Cat, tiger",Female,Stone
+77,Orange,,Coke's hartebeest,Male,Brass
+78,Yellow,Rutaceae,Water moccasin,Female,Vinyl
+79,Red,Lecanoraceae,"Eagle, long-crested hawk",Male,Steel
+80,Yellow,Rosaceae,South American sea lion,Male,Wood
+81,Blue,Orchidaceae,,Male,Plexiglass
+82,Yellow,Rosaceae,Tree porcupine,Female,Brass
+83,Yellow,Poaceae,"Dove, little brown",Polygender,Glass
+84,Orange,Ulmaceae,"Lemur, brown",Female,Wood
+85,Orange,Oxalidaceae,"Quoll, spotted-tailed",Female,Plastic
+86,Orange,Grimmiaceae,"Goat, mountain",Female,Vinyl
+87,Yellow,Graphidaceae,"Pheasant, ring-necked",Male,Granite
+88,,Asteraceae,"Gull, herring",Male,Rubber
+89,Red,Cladoniaceae,"Cockatoo, sulfur-crested",Male,Plexiglass
+90,Blue,Lamiaceae,Russian dragonfly,Female,Brass
+91,Yellow,Campanulaceae,"Capuchin, black-capped",Male,Steel
+92,Orange,Myrtaceae,Yak,Female,Aluminum
+93,Orange,Asteraceae,,Male,Stone
+94,Red,Scrophulariaceae,"Marshbird, brown and yellow",Male,Plexiglass
+95,Red,Polygonaceae,"Tortoise, radiated",Bigender,Stone
+96,Blue,Aspleniaceae,Denham's bustard,Genderfluid,Steel
+97,Yellow,Rosaceae,Hippopotamus,Male,Vinyl
+98,Orange,Convolvulaceae,"Dog, raccoon",Female,Plexiglass
+99,Yellow,Scrophulariaceae,"Wallaby, red-necked",Male,Vinyl
+100,Red,Campanulaceae,"Dove, rock",Female,Plexiglass
+101,Red,Celastraceae,Gerbil (unidentified),Male,Brass
+102,Blue,,Javan gold-spotted mongoose,Female,Wood
+103,Blue,Rosaceae,"Dragon, western bearded",Male,Rubber
+104,Yellow,Rosaceae,Least chipmunk,Female,Rubber
+105,Orange,Malvaceae,"Eagle, bateleur",Male,Aluminum
+106,Yellow,Caryophyllaceae,"Iguana, land",Male,Brass
+107,Blue,Asteraceae,"Sheep, red",Male,Wood
+108,Orange,Verbenaceae,"Oryx, beisa",Female,Plexiglass
+109,Orange,Liliaceae,Yellow-crowned night heron,Female,Plastic
+110,Yellow,Cyperaceae,"Penguin, fairy",Female,Stone
+111,Orange,Berberidaceae,Springbok,Male,Granite
+112,Blue,Melastomataceae,"Buffalo, american",Female,Steel
+113,Yellow,Malvaceae,Lappet-faced vulture,Female,Stone
+114,Yellow,Rosaceae,Barrows goldeneye,Female,Aluminum
+115,Blue,Polemoniaceae,"Squirrel, eastern fox",Male,Wood
+116,Red,Polemoniaceae,Tayra,Female,Brass
+117,Red,Boraginaceae,Ringtail cat,Female,Rubber
+118,Orange,Papaveraceae,Ringtail,Female,Aluminum
+119,Blue,Pottiaceae,Indian tree pie,Female,Wood
+120,Yellow,Saxifragaceae,Pied butcher bird,Male,Aluminum
+121,Red,Cucurbitaceae,"Lemur, grey mouse",Male,Brass
+122,Blue,Brassicaceae,"Dragon, netted rock",Female,Glass
+123,Yellow,Onagraceae,Seven-banded armadillo,Female,Stone
+124,Orange,Brassicaceae,"Sloth, hoffman's",Male,Vinyl
+125,Orange,Lamiaceae,Giant heron,Female,Steel
+126,Orange,Lecideaceae,"Bat, asian false vampire",Male,Wood
+127,Red,Fabaceae,"Deer, roe",Female,Wood
+128,Orange,,Prehensile-tailed porcupine,Female,Stone
+129,Yellow,Boraginaceae,Giant otter,Male,Vinyl
+130,Red,Scrophulariaceae,African skink,Female,Glass
+131,,Onagraceae,Northern fur seal,Female,Steel
+132,Red,Euphorbiaceae,Chestnut weaver,Polygender,Wood
+133,Red,Scrophulariaceae,"Seal, common",Male,Glass
+134,Red,Rosaceae,"Lizard, mexican beaded",Male,Vinyl
+135,Red,Asteraceae,"Heron, grey",Female,Plexiglass
+136,Blue,Polygonaceae,Nine-banded armadillo,Male,Steel
+137,Red,Violaceae,Openbill stork,Female,Stone
+138,Red,Liliaceae,"Trumpeter, dark-winged",Male,Granite
+139,Orange,Asteraceae,"Hornbill, southern ground",Male,Granite
+140,Red,Asteraceae,"Waxbill, blue",Male,Plastic
+141,Yellow,Iridaceae,,Female,Plexiglass
+142,Orange,Rosaceae,"Bleu, red-cheeked cordon",Non-binary,Granite
+143,Blue,Solanaceae,"Kudu, greater",Polygender,Plastic
+144,,Peltulaceae,African polecat,Female,Stone
+145,Blue,Liliaceae,African lynx,Female,Plexiglass
+146,Orange,Droseraceae,Spotted deer,Female,Stone
+147,Blue,Poaceae,"Bustard, denham's",Male,Plastic
+148,Blue,Orchidaceae,"Owl, madagascar hawk",Female,Rubber
+149,Blue,Rosaceae,Snowy egret,Female,Wood
+150,Yellow,Cyperaceae,"Bleu, red-cheeked cordon",Male,Glass
+151,Yellow,Asteraceae,Little blue penguin,Female,Glass
+152,Yellow,Sphagnaceae,Wild turkey,Non-binary,Steel
+153,Orange,Asteraceae,"Bird, magnificent frigate",Female,Vinyl
+154,Yellow,Caprifoliaceae,Horned lark,Female,Glass
+155,Blue,Uncertain Ascomycota Family,"Eagle, long-crested hawk",Female,Granite
+156,Blue,,Tiger snake,Male,Stone
+157,Blue,Poaceae,Yellow-throated sandgrouse,Female,Steel
+158,Orange,,Agama lizard (unidentified),Male,Plastic
+159,Orange,Salicaceae,Oriental short-clawed otter,Male,Wood
+160,Red,Scrophulariaceae,"Stork, greater adjutant",Male,Rubber
+161,Blue,Hymenophyllaceae,"Hornbill, leadbeateri's ground",Male,Stone
+162,Yellow,Aizoaceae,"Starling, superb",Male,Steel
+163,Red,Mycoblastaceae,"Fox, blue",Female,Rubber
+164,Orange,,Greater roadrunner,Male,Rubber
+165,Blue,Polygonaceae,"Pelican, great white",Male,Wood
+166,,Asteraceae,,Female,Aluminum
+167,Orange,Arecaceae,Scottish highland cow,Female,Granite
+168,Yellow,Anemiaceae,African wild cat,Bigender,Steel
+169,Orange,Apiaceae,Swallow-tail gull,Female,Wood
+170,Yellow,Poaceae,Greater adjutant stork,Male,Granite
+171,Red,Caryophyllaceae,"Cockatoo, red-tailed",Male,Steel
+172,Blue,Pyrenulaceae,"Spoonbill, white",Male,Plastic
+173,Blue,Poaceae,Russian dragonfly,Female,Granite
+174,Yellow,Scrophulariaceae,"Brocket, brown",Male,Granite
+175,Blue,Fabaceae,"Ibis, puna",Male,Stone
+176,Orange,,"Bleu, blue-breasted cordon",Non-binary,Glass
+177,,Lamiaceae,Red-necked wallaby,Male,Plexiglass
+178,Orange,Lamiaceae,Laughing kookaburra,Male,Wood
+179,Red,Rosaceae,Desert spiny lizard,Male,Steel
+180,Blue,Polygonaceae,Yellow-rumped siskin,Male,Wood
+181,Red,Boraginaceae,"Legaan, ground",Female,Steel
+182,Blue,Cyperaceae,Salmon pink bird eater tarantula,Female,Rubber
+183,Blue,Theaceae,Black-capped chickadee,Female,Glass
+184,Yellow,Lamiaceae,Large cormorant,Male,Plexiglass
+185,,Asteraceae,"Colobus, black and white",Polygender,Rubber
+186,Red,Cyperaceae,Laughing dove,Female,Plastic
+187,Yellow,Lecanoraceae,,Male,Steel
+188,Blue,Poaceae,White-mantled colobus,Genderfluid,Steel
+189,Red,Liliaceae,Striated heron,Female,Granite
+190,,Brassicaceae,African lynx,Male,Steel
+191,,Polygonaceae,Ocelot,Male,Plastic
+192,Red,Poaceae,Asian foreset tortoise,Male,Plastic
+193,Orange,Datiscaceae,"Leopard, indian",Male,Glass
+194,Blue,Fabaceae,"Vulture, king",Female,Plexiglass
+195,Yellow,,"Squirrel, indian giant",Male,Rubber
+196,Orange,Moraceae,African wild cat,Female,Vinyl
+197,Blue,Cactaceae,Nelson ground squirrel,Female,Plexiglass
+198,Orange,Lecanoraceae,Great skua,Male,Vinyl
+199,Orange,Poaceae,"Camel, dromedary",Male,Stone
+200,Blue,Pyrenulaceae,"Shrike, southern white-crowned",Male,Granite
